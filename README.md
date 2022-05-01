@@ -161,8 +161,8 @@ out the following documentation.
 
 Document | Last Updated | Status |
 -------- | ------------ | ------ |
-[Swift Differentiable Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md) | January 2020 | Current
-[Swift Differentiable Programming Implementation Overview](https://github.com/apple/swift/blob/main/docs/DifferentiableProgrammingImplementation.md) | August 2019 | Current
+[Swift Differentiable Programming Manifesto](https://github.com/apple/swift/blob/main/docs/DifferentiableProgramming.md) | December 2021 | Current
+[Swift Differentiable Programming Implementation Overview](https://github.com/apple/swift/blob/main/docs/DifferentiableProgrammingImplementation.md) | January 2022 | Current
 [Swift Differentiable Programming Design Overview](https://docs.google.com/document/d/1bPepWLfRQa6CtXqKA8CDQ87uZHixNav-TFjLSisuKag/edit?usp=sharing) | June 2019 | Outdated
 [Differentiable Types](docs/DifferentiableTypes.md) | March 2019 | Outdated
 [Differentiable Functions and Differentiation APIs](docs/DifferentiableFunctions.md) | March 2019 | Outdated
