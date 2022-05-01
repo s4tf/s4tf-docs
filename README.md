@@ -71,10 +71,12 @@ Tutorial | Last Updated |
 - [Frequently Asked Questions](FAQ.md)
 - [TensorFlow Blog Posts](https://blog.tensorflow.org/search?label=Swift)
 
+<!--
 ### Forums
 
 The discussions happened on the
 [swift@tensorflow.org mailing list](https://groups.google.com/a/tensorflow.org/d/forum/swift).
+-->
 
 ## Why Swift for TensorFlow?
 
