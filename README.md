@@ -211,8 +211,8 @@ Swift for TensorFlow, modeled after the
 
 ## Community
 
-Swift for TensorFlow discussions happen on the
-[swift@tensorflow.org mailing list](https://groups.google.com/a/tensorflow.org/d/forum/swift).
+<!-- Swift for TensorFlow discussions happen on the
+[swift@tensorflow.org mailing list](https://groups.google.com/a/tensorflow.org/d/forum/swift). -->
 
 ### Bugs reports and feature requests
 
